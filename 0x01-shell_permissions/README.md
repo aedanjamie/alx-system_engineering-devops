@@ -1,1 +1,1 @@
-.. Commands dealing with changing users, listing current user, etc. in linux
+Changes the user to betty
