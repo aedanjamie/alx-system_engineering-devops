@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --de-reference vincent:staff hello_symlnk
+chown --no-dereference vincent:staff hello_symlnk
