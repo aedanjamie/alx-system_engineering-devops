@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --dereference vincent:staff hello_symlnk
+chown --dereference vincent:staff __hello
