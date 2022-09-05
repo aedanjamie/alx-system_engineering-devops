@@ -1,2 +1,2 @@
 #!/bin/bash
-head .
+find . -type f -mmin -10 -ls
