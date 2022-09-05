@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((`stat -c %h folder` - 2))
+find . -type d | wc -l
